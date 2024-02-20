@@ -1,6 +1,6 @@
 # React + Vite
 
-This is an AddToCart page is made by using the Concept of Context Api. 
+This is an AddToCart page and is made by using the Concept of Context Api. 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
